@@ -61,7 +61,7 @@ If you want to build the application yourself:
    ```
 3. Use PyInstaller to create the executable:
    ```
-   pyinstaller --onefile your_script_name.py
+   pyinstaller --onefile jarvis.py
    ```
 
 ## License
