@@ -59,7 +59,8 @@ def processCommand(c):
         link = musicLibrary.music[song]
         webbrowser.open(link)
     elif "info" in c.lower():
-        r = requests.get("https://newsapi.org/v2/top-headlines?country=in&apikey=7fed259939094cb0b544774f6282e989")
+        #use your own API key from newsapi.org
+        r = requests.get("https://newsapi.org/v2/top-headlines?country=in&apikey=xxxxxxxxxxxxxxxxxxxxxxx")
         if r.status_code == 200:
             data = r.json()
             articles = data.get('articles', [])
