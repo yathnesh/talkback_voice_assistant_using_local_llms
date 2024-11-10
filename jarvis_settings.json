@@ -1,0 +1,24 @@
+{
+    "music_library": {
+        "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+        "despacito": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+        "shape": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
+        "faded": "https://www.youtube.com/watch?v=60ItHLz5WEA",
+        "closer": "https://www.youtube.com/watch?v=PT2_F-1esPk",
+        "memories": "https://www.youtube.com/watch?v=SlPhMPnQ58k"
+    },
+    "websites": {
+        "youtube": "https://youtube.com",
+        "google": "https://google.com",
+        "facebook": "https://facebook.com",
+        "college": "https://vtop.vitap.ac.in/",
+        "gmail": "https://mail.google.com",
+        "instagram": "https://instagram.com",
+        "twitter": "https://twitter.com",
+        "whatsapp": "https://web.whatsapp.com",
+        "amazon": "https://amazon.com",
+        "flipkart": "https://flipkart.com",
+        "netflix": "https://netflix.com",
+        "github": "https://github.com"
+    }
+}
