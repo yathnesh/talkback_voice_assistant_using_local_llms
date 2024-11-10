@@ -17,7 +17,7 @@ A modern voice-controlled assistant with a graphical user interface that can per
 
 The executable file (602 MB) is available for download from Google Drive:
 
-[Download Voice Assistant](https://drive.google.com/file/d/1Ov36CZWzL9M7u-9ermJPBkfrbvn5EKyA/view?usp=sharing)
+[Download Voice Assistant](https://drive.google.com/file/d/1X9l3-4UfxUrQ3udruPmPIHFJqY6ZW6ts/view?usp=sharing)
 
 If you prefer a non-GUI version of the voice assistant then use the below link:
 
