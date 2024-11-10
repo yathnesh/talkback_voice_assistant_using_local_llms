@@ -15,7 +15,7 @@ A modern voice-controlled assistant with a graphical user interface that can per
 - **AI Conversations**: Integrated with Mistral AI model for natural language interactions
   ![Alt text](rest_api.png)
 - **Settings Management**: GUI-based settings manager for customizing websites and music library
-  ![Alt text](settings.png)
+  ![Alt text](setings.png)
 - **Real-time Feedback**: Visual and audio feedback for all interactions
 
 ## Download
