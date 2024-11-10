@@ -7,10 +7,15 @@ A modern voice-controlled assistant with a graphical user interface that can per
 - **Voice Control**: Activate with the wake word "Jarvis" and issue voice commands
 - **Modern GUI**: Clean, dark-themed interface with animated microphone visualization
 - **Website Navigation**: Quick access to popular websites through voice commands
+- ![Alt text](website.png)
 - **Music Playback**: Voice-controlled YouTube music playback with customizable library
+- ![Alt text](song.png)
 - **News Updates**: Fetch and read out latest news (general or topic-specific)
+- ![Alt text](newsfetch.png)
 - **AI Conversations**: Integrated with Mistral AI model for natural language interactions
+- ![Alt text](rest_api.png)
 - **Settings Management**: GUI-based settings manager for customizing websites and music library
+- ![Alt text](settings.png)
 - **Real-time Feedback**: Visual and audio feedback for all interactions
 
 ## Download
