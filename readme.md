@@ -1,10 +1,25 @@
-# Voice Assistant
+# Jarvis Voice Assistant
 
-This is a voice-controlled assistant that can perform various tasks such as opening websites, playing music, fetching news, and answering questions using a local language model.
+A modern voice-controlled assistant with a graphical user interface that can perform various tasks including website navigation, music playback, news fetching, and conversational AI responses using the Mistral language model.
+
+## Features
+
+- **Voice Control**: Activate with the wake word "Jarvis" and issue voice commands
+- **Modern GUI**: Clean, dark-themed interface with animated microphone visualization
+- **Website Navigation**: Quick access to popular websites through voice commands
+- **Music Playback**: Voice-controlled YouTube music playback with customizable library
+- **News Updates**: Fetch and read out latest news (general or topic-specific)
+- **AI Conversations**: Integrated with Mistral AI model for natural language interactions
+- **Settings Management**: GUI-based settings manager for customizing websites and music library
+- **Real-time Feedback**: Visual and audio feedback for all interactions
 
 ## Download
 
 The executable file (602 MB) is available for download from Google Drive:
+
+[Download Voice Assistant](https://drive.google.com/file/d/1Ov36CZWzL9M7u-9ermJPBkfrbvn5EKyA/view?usp=sharing)
+
+If you prefer a non-GUI version of the voice assistant then use the below link:
 
 [Download Voice Assistant](https://drive.google.com/file/d/1T_RmPJ1DrQ_SGf18yZ9m-Ar8T5bUpCX0/view?usp=sharing)
 
